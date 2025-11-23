@@ -1,4 +1,5 @@
-# Rangkuman_Bab_12
+# Rangkuman BAB 12 Perencanaan Strategis Teknologi Informasi
+Dosen Pengampu : Dr. Basuki Rahmat, S.Si. MT.
 
 ## Pertemuan 12: Teknik Pendukung PSSI & Framework Strategi TI
 
